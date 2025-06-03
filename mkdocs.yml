@@ -2,4 +2,5 @@ site_name: MB Technical Writing Portfolio
 site_url: https://mbtw-portfolio.github.io/
 theme:
   name: material
-  
+  palette: 
+    scheme: slate
